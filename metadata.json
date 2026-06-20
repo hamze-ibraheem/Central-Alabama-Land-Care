@@ -1,0 +1,6 @@
+{
+  "name": "Central Alabama Land Care",
+  "description": "Professional, reliable land care and landscaping services serving Montgomery and surrounding Central Alabama areas since 2005.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
