@@ -702,6 +702,16 @@ export default function App() {
         </button>
       </div>
 
+      {/* Promotional FAB */}
+      <a
+        href="https://auroraadv.co/?tab=wizard"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="fixed z-50 flex items-center justify-center px-6 py-3.5 bg-accent-600 text-white rounded-full shadow-lg hover:shadow-2xl hover:bg-accent-700 hover:-translate-y-1 transition-all duration-300 transform left-4 bottom-[88px] md:left-8 md:bottom-8 font-bold text-sm tracking-wide whitespace-nowrap"
+      >
+        Get this website for only $999
+      </a>
+
       {/* WhatsApp FAB */}
       <a
         href="https://wa.me/13342795390?text=I%27m%20interested%20in%20your%20landscaping%20services."
